@@ -19,8 +19,10 @@ Add Some Awesome Youtube Subscribe & View Video Video Buttons On Your Website!
 <div class="youtube-subscribe-btn" size="130" channel='Youtube Channel URL'></div>
 ```
 <br>
-***Video Button*** :-
+
+***Video Button*** :-  
 ```html
+<div class="youtube-video-btn" size="130" video="https://youtu.be/ecjyX29yNII"></div>
 ```
 
 <br>
