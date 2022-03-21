@@ -1,5 +1,5 @@
 # Youtube_Buttons.js
-Add Some Awesome Youtube Subscribe & View Video Video Buttons On Your Website!
+*Add Some Awesome Youtube Subscribe & View Video Video Buttons On Your Website!*
 
 <br>
 
@@ -24,6 +24,8 @@ Add Some Awesome Youtube Subscribe & View Video Video Buttons On Your Website!
 ```html
 <div class="youtube-video-btn" size="130" video="https://youtu.be/ecjyX29yNII"></div>
 ```
+
+**Note: Once You Import The Script, The Needed Functions Will Automatically Called.**
 
 <br>
 
