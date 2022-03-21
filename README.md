@@ -16,7 +16,7 @@
 <br>
 ***Subscribe Button*** :-
 ```html
-<div class="youtube-subscribe-btn" size="130" channel='Youtube Channel URL'></div>
+<div class="youtube-subscribe-btn" size="130" channel="Youtube Channel URL"></div>
 ```
 <br>
 
